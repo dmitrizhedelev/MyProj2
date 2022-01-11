@@ -1,5 +1,5 @@
 class kek {
 
-    val d = 100
+    val c = 200
 
 }
