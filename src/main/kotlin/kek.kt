@@ -1,6 +1,5 @@
 class kek {
 
-    // first commit
-    // second commit
+    val d = 100
 
 }
